@@ -13,6 +13,9 @@ Building production-grade AI systems, autonomous agents and intelligent software
   <a href="https://github.com/AmadeyM111">
     <img src="https://img.shields.io/badge/GitHub-AmadeyM111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100014060265321">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
